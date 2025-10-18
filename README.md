@@ -121,7 +121,7 @@ You’ll see a grouped summary printed, and three files generated in your projec
 
 ## 🧑‍💻 Example Applications
 
-* Routing algorithm testing (ACO, DRL, flow-field, etc.)
+* Routing algorithm testing (ACO, DRL, PSO, etc.)
 * Geometric PCB dataset generation (PCBench, GPCB, etc.)
 * Connectivity visualization / DRC analysis
 * Machine learning feature extraction from real boards
