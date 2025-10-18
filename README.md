@@ -154,5 +154,4 @@ If you want to build automated AI-assisted routing tools, dataset converters, or
 
 ---
 
-Would you like me to add a **section with a diagram** (showing “Board → Pads → Nets → CSV/JSON/TXT pipeline”) for the README? It makes the GitHub page look more professional and instantly understandable.
 
