@@ -88,13 +88,13 @@ Menu → **Tools → Scripting Console**
 Save the script as:
 
 ```
-net_extractor_final.py
+net_extractor.py
 ```
 
 Then in the console, run:
 
 ```python
-exec(open("net_extractor_final.py").read())
+exec(open("net_extractor.py").read())
 ```
 
 You’ll see a grouped summary printed, and three files generated in your project directory.
